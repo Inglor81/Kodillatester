@@ -1,0 +1,16 @@
+public class MainExtended {
+    public static void main(String [] args) {
+        String auto = "bmw";
+        String  engine = "gasoline";
+        double acceleration = 3.5;
+        String model = "X6";
+        String expensive = "yes";
+        String colour = "red";
+        System.out.println(auto);
+        System.out.println(engine);
+        System.out.println(acceleration);
+        System.out.println(model);
+        System.out.println(expensive);
+        System.out.println(colour);
+    }
+}
