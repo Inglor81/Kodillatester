@@ -1,0 +1,10 @@
+public class SimpleArray {
+    public static void main(String[] args) {
+        String[] cars = new String[5];
+        cars [0] = "audi";
+        cars [1] = "bmw";
+        cars [2] = "honda";
+        cars [3] = "opel";
+        cars [4] = "volkswagen";
+    }
+}
